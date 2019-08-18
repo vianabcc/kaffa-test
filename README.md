@@ -11,6 +11,8 @@ To configure all the project its needed to create an environment and install all
 
 To do this, first install `virtualenv` library with *pip*.
 
+`sudo apt install python3-venv`
+
 `python3 -m pip install --user virtualenv`
 
 ### Creating a virtual environment
